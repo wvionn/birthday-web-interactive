@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -62,3 +63,7 @@ A personalized interactive website built as a special birthday gift. Since we ar
 Visit the website here: []
 
 >>>>>>> 847627120e0d0ea3fb112f0956e3a90a24a4f8c4
+=======
+# birthday-web-interactive
+A gamified birthday greeting featuring chat simulation and interactive elements.
+>>>>>>> 205f41e022c6b7c34f1c2990cc88caa0c92cbb8a
